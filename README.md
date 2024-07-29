@@ -22,7 +22,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/ashadmuneer/chitchat.git
+git clone https://github.com/ADITYA0714/Baat-chit.git
 cd vite-template-react
 ```
 
